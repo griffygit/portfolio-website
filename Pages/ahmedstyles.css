@@ -36,3 +36,30 @@ footer {
     color: #ffffff;
     padding-bottom: 20px;
 }
+.profile {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-left: 50px;
+}
+.profile-pic {
+    width: 200px; /* Adjust size as needed */
+    height: 200px;
+    border-radius: 50%; /* Makes it circular */
+    object-fit: cover;
+    position: absolute;
+    left: -40px; /* Adjust negative value to control overlap */
+    top: 50%;
+    transform: translateY(-50%); /* Centers the image vertically */
+    border: 3px solid white; /* Optional: adds a border for separation */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optional: adds shadow */
+}
+.name-box {
+    padding: 10px 100px;
+    border-radius: 8px;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    min-width: 200px;
+    text-align: center;
+}
