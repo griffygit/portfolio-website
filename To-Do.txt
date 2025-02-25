@@ -1,0 +1,4 @@
+- Simplify with GPT, remove redundancies
+- Social Buttons under namebox
+- Interesting nav menu
+- Filler info
