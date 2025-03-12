@@ -3,9 +3,9 @@ header {
     background-color: #9b84bb;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
-    width: 700px;
-    border-radius: 50px;
+    margin-top: 90px;
+    width: 675px;
+    border-radius: 90px;
     transition: opacity 0.5s ease-in;
 }
 body {
@@ -40,19 +40,19 @@ footer {
     display: flex;
     align-items: center;
     position: relative;
-    padding-left: 50px;
+    padding-left: 120px;
 }
 .profile-pic {
     width: 200px; /* Adjust size as needed */
     height: 200px;
-    border-radius: 50%; /* Makes it circular */
+    border-radius: 50%;
     object-fit: cover;
     position: absolute;
-    left: -40px; /* Adjust negative value to control overlap */
+    left: -40px; 
     top: 50%;
-    transform: translateY(-50%); /* Centers the image vertically */
-    border: 3px solid white; /* Optional: adds a border for separation */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optional: adds shadow */
+    transform: translateY(-50%); 
+    border: 3px solid white; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 .name-box {
     padding: 10px 100px;
