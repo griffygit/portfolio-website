@@ -1,4 +1,23 @@
-- Simplify with GPT, remove redundancies
 - Social Buttons under namebox
 - Interesting nav menu
 - Filler info
+- react and tailwind
+
+PAGES
++ HOME 
+    - Avatar
+    - Basic info
++ EXPERIENCE
+    - split into sections
+    - layered images of environment and me in position
+        TECH
+            - IT Positions
+            - Areas of Study
+        STAGE
+            - Pete Seeger Theatre Shows and Experiences
+            - Hudson Valley Shakespeare
+            - CDA A/V 
++ PROJECTS
+    - Mohonk App
+    - Music
++ CONTACT
